@@ -4,6 +4,7 @@
 
 This project focuses on analyzing heart disease data using various classification and clustering techniques. The primary goal is to compare the accuracy of **Decision Tree** and **Naive Bayes** classifiers, and to evaluate the impact of feature selection on model performance. Additionally, clustering algorithms are applied to explore inherent patterns in the dataset.
 
+Data Mining Course By Dr. Mohammadreza Shams
 ## Features
 
 - **Data Preprocessing**: Handling missing values, standardization, and feature-label separation.
