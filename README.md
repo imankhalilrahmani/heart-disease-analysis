@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact **Iman Khalil Rahmani** at [your-email@example.com](mailto:imankhtech@gmail.com).
+For any inquiries, please contact **Iman Khalil Rahmani** at [imankhtech@gmail.com](mailto:imankhtech@gmail.com).
 
 ---
 
